@@ -7,7 +7,7 @@
 
 This is an open source project, intended for study and training with RabbitMQ.
 
-It was only possible to complete it with the help of my co-workers Alex Borges and Fabio Stefani, who first guided me with Pools and Cached Objects.
+It uses Pools and Cached Objects for better performance.
 
 ## Environment Variables
 
